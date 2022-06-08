@@ -1,0 +1,102 @@
+.factura {
+    margin: 0px;
+    width: 500px;
+    height: 750px;
+    outline: 3px solid black;
+    box-shadow: 10px 10px 15px 0 black;
+    overflow: auto;
+}
+
+h1 {
+    padding-top: 30px;
+    text-align: center;
+    margin: 10px;
+}
+
+h2 {
+    margin: 2px;
+    text-align: center;
+    font-weight: 100;
+}
+
+h3 {
+    margin: 0px;
+    text-align: center;
+    font-weight: 100;
+}
+
+.colum__2 {
+    padding-top: 10px;
+}
+
+.izquierda {
+    display: inline-block;
+    width: 49%;
+    text-align: center;
+    margin: 0;
+}
+
+.derecha {
+    display: inline-block;
+    text-align: center;
+    width: 49%;
+    margin: 0;
+}
+
+.colum__4-h4 {
+    display: inline-block;
+    width: 23%;
+    text-align: center;
+}
+
+.productos__h5 {
+    margin: 0;
+    padding-bottom: 5px;
+    font-weight: 100;
+    font-size: 14px;
+    display: inline-block;
+    width: 23%;
+    text-align: center;
+}
+
+.subtotal {
+    display: inline-block;
+    width: 65%;
+    text-align: right;
+    padding-top: 10px;
+}
+
+.subtotal__N {
+    display: inline-block;
+    width: 34%;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.descuento {
+    display: inline-block;
+    width: 65%;
+    text-align: right;
+    padding-top: 10px;
+}
+
+.descuento__N {
+    display: inline-block;
+    width: 34%;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.total {
+    display: inline-block;
+    width: 65%;
+    text-align: right;
+    padding-top: 10px;
+}
+
+.total__N {
+    display: inline-block;
+    width: 34%;
+    text-align: center;
+    padding-top: 10px;
+}
